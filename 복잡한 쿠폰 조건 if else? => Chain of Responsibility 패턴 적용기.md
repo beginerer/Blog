@@ -1,4 +1,4 @@
-# 복잡한 쿠폰 조건 if else? => Chain of Responsibility 적용기
+# 복잡한 쿠폰 조건 if else? => Chain of Responsibility 패턴 적용기
 
 ## 기존의 쿠폰 시스템
 
