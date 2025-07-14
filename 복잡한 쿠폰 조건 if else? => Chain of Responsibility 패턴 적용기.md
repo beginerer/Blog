@@ -79,7 +79,8 @@ chain of responsibilty 패턴 적용에서 했던 여러 고민들 중에 하나
 ### CheckerChainManager
 
 <img width="1116" height="404" alt="스크린샷 2025-07-14 오후 3 45 31" src="https://github.com/user-attachments/assets/ed0f00b0-5738-41ac-84cf-ba7bae65dbe7" />
-<img width="1234" height="906" alt="스크린샷 2025-07-14 오후 3 45 50" src="https://github.com/user-attachments/assets/6d5a17a1-52a6-46bb-8110-f98596059be1" />
+<img width="1228" height="903" alt="스크린샷 2025-07-14 오후 7 54 48" src="https://github.com/user-attachments/assets/6e188abe-abaa-417f-99bc-67eb93dd0c51" />
+
 
 
 ### 작동 테스트
