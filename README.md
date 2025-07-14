@@ -1,6 +1,6 @@
 # 개인 블로그
 
-#### 20205-07-14
+#### 2025-07-14
 [복잡한 쿠폰 조건 if else? => Chain of Responsibility 적용기](https://github.com/beginerer/Blog/blob/main/%EB%B3%B5%EC%9E%A1%ED%95%9C%20%EC%BF%A0%ED%8F%B0%20%EC%A1%B0%EA%B1%B4%20if%20else%3F%20%3D%3E%20Chain%20of%20Responsibility%20%EC%A0%81%EC%9A%A9%EA%B8%B0.md)
 
 #### 2025-07-04
